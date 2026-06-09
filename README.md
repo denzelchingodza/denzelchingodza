@@ -2,7 +2,7 @@
 
 [![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Denzel%20Chingodza&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20·%20South%20Africa&descAlignY=60&descSize=18)](https://github.com/denzelchingodza)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=4A9C6F&center=true&vCenter=true&width=600&height=60&lines=Building+AI+systems+that+actually+work;RAG+Pipelines+·+LLMs+·+Vector+Databases;FastAPI+·+Next.js+·+PostgreSQL+·+Docker;Final+year+student+·+Learning+by+doing)](https://github.com/denzelchingodza)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=4A9C6F&center=true&vCenter=true&width=600&height=60&lines=Final+year+Software+Engineering+student;Building+real+things+to+learn+real+skills;FastAPI+·+Next.js+·+PostgreSQL+·+Docker;Currently+exploring+AI+%26+RAG+pipelines)](https://github.com/denzelchingodza)
 
 </div>
 
@@ -13,12 +13,12 @@
 ```python
 denzel = {
     "location":          "South Africa 🌍",
-    "role":              "Final Year Software Engineer",
-    "focus":             ["Web App developments", "AI Systems", "RAG Pipelines", "Intelligent Agents"],
-    "philosophy":        "Learn by building. Nothing beats watching something you made work. Motivated by curiosity",
-    "currently_building": ["DocuZen — AI document analysis for SA legal firms",
-                           "DenzOS — Interstellar-themed portfolio"
-                           "LinkUP - A demo e-commerce school project platform"],
+    "role":              "Final Year Software Engineering Student",
+    "approach":          "I learn by building. Tutorials don't stick — projects do.",
+    "currently_into":    ["AI & RAG pipelines (still learning)", "Full-stack web apps",
+                          "Building tools that solve real problems"],
+    "next_project":      "AI Tutor using the Socratic method",
+    "fun_fact":          "6'3\" — irrelevant, but noted",
     "directive":         "BUILD · LEARN · SHIP"
 }
 ```
@@ -37,12 +37,14 @@ denzel = {
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[DocuZen](https://github.com/denzelchingodza/doc-analyzer)** | AI document analysis tool for SA legal & finance firms. Upload a PDF, ask questions, get answers with page citations. | FastAPI · Qdrant · OpenAI · Next.js |
-| **[DenzOS](https://github.com/denzelchingodza/platform)** | Personal portfolio themed after Interstellar. Orbital system, cinematic intro, contact form. | Next.js · TypeScript · Tailwind |
+| **[DenzOS](https://platform-production-fe13.up.railway.app)** | Personal portfolio themed after Interstellar. Orbital system, cinematic intro, live contact form. | Next.js · TypeScript · Tailwind |
+| **[DocuZen](https://github.com/denzelchingodza/doc-analyzer)** | AI document analysis tool — upload a PDF, ask questions, get answers with page citations. Built to explore RAG pipelines. | FastAPI · Qdrant · OpenAI · Next.js |
+| **[LinkUp](https://github.com/denz-os/ecommerce)** | Demo e-commerce platform built to learn full-stack fundamentals end to end. | Next.js · PostgreSQL · TypeScript |
+| **AI Tutor** *(coming soon)* | Socratic-method AI tutor that guides students to answers through questions rather than just giving them. | In planning |
 
 ---
 
@@ -72,19 +74,20 @@ denzel = {
 ### 🎯 What I'm Working On
 
 ```
-🔭  DocuZen     — AI-powered document Q&A for SA legal firms (FastAPI + RAG)
-🌌  DenzOS      — Live portfolio at denzelchingodza.dev
-📚  Learning    — System design, cloud deployment, LLM fine-tuning
+🌌  DenzOS      — Live at platform-production-fe13.up.railway.app
+📄  DocuZen     — AI document Q&A for SA legal firms (exploring RAG)
+🧠  AI Tutor    — Socratic method tutoring agent (up next)
+📚  Learning    — Deepening Python, system design, AI fundamentals
 ```
 
 ---
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Demo-4A9C6F?style=for-the-badge&labelColor=0D1117)](https://denzelchingodza.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/denzelchingodza)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-DenzOS-4A9C6F?style=for-the-badge&labelColor=0D1117)](https://platform-production-fe13.up.railway.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/denzel-chingodza-45b6ab3a0/)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:denzel.chingodza@icloud.com)
 
-[![capsule-footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&animation=twinkling)](https://github.com/denzelchingodza)
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&animation=twinkling)](https://github.com/denzelchingodza)
 
 </div>
