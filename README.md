@@ -43,7 +43,7 @@ denzel = {
 |---------|-------------|-------|
 | **[DenzOS](https://platform-production-fe13.up.railway.app)** | Personal portfolio themed after Interstellar. Orbital system, cinematic intro, live contact form. | Next.js · TypeScript · Tailwind |
 | **[DocuZen](https://github.com/denzelchingodza/doc-analyzer)** | AI document analysis tool — upload a PDF, ask questions, get answers with page citations. Built to explore RAG pipelines. | FastAPI · Qdrant · OpenAI · Next.js |
-| **[LinkUp](https://github.com/denz-os/ecommerce)** | Demo e-commerce platform built to learn full-stack fundamentals end to end. | Next.js · PostgreSQL · TypeScript |
+| **[LinkUp](https://github.com/denz-os/ecommerce)** | Demo e-commerce platform built to learn full-stack fundamentals end to end. | HTML · CSS · JavaScript . FAST API . MongoDB |
 | **AI Tutor** *(coming soon)* | Socratic-method AI tutor that guides students to answers through questions rather than just giving them. | In planning |
 
 ---
