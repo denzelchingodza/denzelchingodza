@@ -41,7 +41,7 @@ denzel = {
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **[DenzOS](https://platform-production-fe13.up.railway.app)** | Personal portfolio themed after Interstellar. Orbital system, cinematic intro, live contact form. | Next.js · TypeScript · Tailwind |
+| **[DenzOS](denzos-platform.netlify.app)** | Personal portfolio themed after Interstellar. Orbital system, cinematic intro, live contact form. | Next.js · TypeScript · Tailwind |
 | **[DocuZen](https://github.com/denzelchingodza/doc-analyzer)** | AI document analysis tool — upload a PDF, ask questions, get answers with page citations. Built to explore RAG pipelines. | FastAPI · Qdrant · OpenAI · Next.js |
 | **[LinkUp](https://github.com/denz-os/ecommerce)** | Demo e-commerce platform built to learn full-stack fundamentals end to end. | HTML · CSS · JavaScript . FAST API . MongoDB |
 | **AI Tutor** *(coming soon)* | Socratic-method AI tutor that guides students to answers through questions rather than just giving them. | In planning |
@@ -84,7 +84,7 @@ denzel = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-DenzOS-4A9C6F?style=for-the-badge&labelColor=0D1117)](https://platform-production-fe13.up.railway.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-DenzOS-4A9C6F?style=for-the-badge&labelColor=0D1117)](https://denzos-platform.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/denzel-chingodza-45b6ab3a0/)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:denzel.chingodza@icloud.com)
 
