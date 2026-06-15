@@ -1,8 +1,10 @@
 <div align="center">
 
-[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Denzel%20Chingodza&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20·%20South%20Africa&descAlignY=60&descSize=18)](https://github.com/denzelchingodza)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=Denzel%20Chingodza&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20·%20South%20Africa%20🌍&descAlignY=60&descSize=20)](https://github.com/denzelchingodza)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=4A9C6F&center=true&vCenter=true&width=600&height=60&lines=Final+year+Software+Engineering+student;Building+real+things+to+learn+real+skills;FastAPI+·+Next.js+·+PostgreSQL+·+Docker;Currently+exploring+AI+%26+RAG+pipelines)](https://github.com/denzelchingodza)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=4A9C6F&center=true&vCenter=true&width=620&height=50&lines=Final+year+Software+Engineering+student;I+learn+by+building+—+tutorials+don't+stick;FastAPI+·+Next.js+·+PostgreSQL+·+Docker;Exploring+AI+%26+RAG+pipelines)](https://github.com/denzelchingodza)
+
+![Profile Views](https://komarev.com/ghpvc/?username=denzelchingodza&color=4A9C6F&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -12,14 +14,14 @@
 
 ```python
 denzel = {
-    "location":          "South Africa 🌍",
-    "role":              "Final Year Software Engineering Student",
-    "approach":          "I learn by building. Tutorials don't stick — projects do.",
-    "currently_into":    ["AI & RAG pipelines (still learning)", "Full-stack web apps",
-                          "Building tools that solve real problems"],
-    "next_project":      "AI Tutor using the Socratic method",
-    "fun_fact":          "6'3\" — irrelevant, but noted",
-    "directive":         "BUILD · LEARN · SHIP"
+    "location":       "South Africa 🌍",
+    "role":           "Final Year Software Engineering Student",
+    "philosophy":     "Tutorials don't stick — projects do.",
+    "building":       ["DocuZen (AI document Q&A)", "AI Tutor (Socratic method)"],
+    "exploring":      ["RAG pipelines", "Vector search", "System design"],
+    "stack":          ["FastAPI", "Next.js", "PostgreSQL", "pgvector", "OpenAI"],
+    "fun_fact":       "6'3\" — irrelevant, but noted",
+    "directive":      "BUILD · LEARN · SHIP"
 }
 ```
 
@@ -30,7 +32,6 @@ denzel = {
 <div align="center">
 
 [![Skills](https://skillicons.dev/icons?i=python,typescript,javascript,fastapi,nextjs,react,postgres,docker&theme=dark)](https://skillicons.dev)
-
 [![Skills](https://skillicons.dev/icons?i=git,github,vscode,tailwind,nodejs,mongodb,linux,figma&theme=dark)](https://skillicons.dev)
 
 </div>
@@ -39,12 +40,12 @@ denzel = {
 
 ### 🚀 Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[DenzOS](https://github.com/denzelchingodza/platform)** | Personal portfolio themed after Interstellar. Orbital system, cinematic intro, live contact form. | Next.js · TypeScript · Tailwind |
-| **[DocuZen](https://github.com/denzelchingodza/doc-analyzer)** | AI document analysis tool — upload a PDF, ask questions, get answers with page citations. Built to explore RAG pipelines. | FastAPI · Qdrant · OpenAI · Next.js |
-| **[LinkUp](https://github.com/denz-os/ecommerce)** | Demo e-commerce platform built to learn full-stack fundamentals end to end. | HTML · CSS · JavaScript . FAST API . MongoDB |
-| **AI Tutor** *(coming soon)* | Socratic-method AI tutor that guides students to answers through questions rather than just giving them. | In planning |
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| **[DenzOS](https://denzos-platform.netlify.app)** | Personal portfolio themed after Interstellar. Orbital system, cinematic intro, live contact form. | Next.js · TypeScript · Tailwind | ✅ Live |
+| **[DocuZen](https://docuzen.netlify.app)** | Upload any PDF or Word doc, ask questions in plain English, get precise answers with page citations. Built to learn RAG. Password: `docuzen2026` | FastAPI · pgvector · PostgreSQL · OpenAI · Next.js | ✅ Live |
+| **[LinkUp](https://boisterous-biscotti-ebb824.netlify.app)** | Peer-to-peer marketplace for South Africa. Listings, cart, user management, admin controls. | HTML · CSS · JavaScript · FastAPI · MongoDB | ✅ Live |
+| **AI Tutor** *(coming soon)* | Socratic-method AI tutor. Guides you to answers through questions, tracks weak spots across sessions. | FastAPI · OpenAI · PostgreSQL · React | 🔨 In progress |
 
 ---
 
@@ -52,32 +53,52 @@ denzel = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=denzelchingodza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A9C6F&icon_color=4A9C6F&text_color=FFFFFF)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=denzelchingodza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A9C6F&text_color=FFFFFF)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=denzelchingodza&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A9C6F&icon_color=4A9C6F&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denzelchingodza&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4A9C6F&text_color=FFFFFF&count_private=true&langs_count=8" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=denzelchingodza&theme=tokyonight&hide_border=true&background=0D1117&stroke=4A9C6F&ring=4A9C6F&fire=FF6B6B&currStreakLabel=4A9C6F)](https://github.com/denzelchingodza)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=denzelchingodza&theme=tokyonight&hide_border=true&background=0D1117&stroke=4A9C6F&ring=4A9C6F&fire=FF6B6B&currStreakLabel=4A9C6F)](https://github.com/denzelchingodza)
 
 </div>
 
 ---
 
-### 🐍 Contribution Grid
+### 🏆 Trophies
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=denzelchingodza&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/denzelchingodza)
 
 </div>
 
 ---
 
-### 🎯 What I'm Working On
+### 📈 Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=denzelchingodza&bg_color=0D1117&color=4A9C6F&line=4A9C6F&point=FFFFFF&area=true&area_color=4A9C6F&hide_border=true)](https://github.com/denzelchingodza)
+
+</div>
+
+---
+
+### 🐍 Contributions
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/denzelchingodza/denzelchingodza/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+### 🎯 Currently Building
 
 ```
-🌌  DenzOS      — Live at platform-production-fe13.up.railway.app
-📄  DocuZen     — AI document Q&A for SA legal firms (exploring RAG)
-🧠  AI Tutor    — Socratic method tutoring agent (up next)
-📚  Learning    — Deepening Python, system design, AI fundamentals
+🌌  DenzOS    — denzos-platform.netlify.app
+📄  DocuZen   — docuzen.netlify.app  (password: docuzen2026)
+🧠  AI Tutor  — Socratic method tutoring agent (up next)
+📚  Learning  — System design · AI fundamentals · Python depth
 ```
 
 ---
@@ -88,6 +109,6 @@ denzel = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/denzel-chingodza-45b6ab3a0/)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:denzel.chingodza@icloud.com)
 
-[![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer&animation=twinkling)](https://github.com/denzelchingodza)
+[![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&animation=twinkling)](https://github.com/denzelchingodza)
 
 </div>
