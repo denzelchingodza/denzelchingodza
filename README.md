@@ -27,7 +27,7 @@ denzel = {
 
 ---
 
-### ⚡ Stack
+###  Stack
 
 <div align="center">
 
