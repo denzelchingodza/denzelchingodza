@@ -17,9 +17,9 @@ denzel = {
     "location":       "South Africa 🌍",
     "role":           "Final Year Software Engineering Student",
     "philosophy":     "Tutorials don't stick — projects do.",
-    "building":       ["DocuZen (AI document Q&A)", "AI Tutor (Socratic method)"],
-    "exploring":      ["RAG pipelines", "Vector search", "System design"],
-    "stack":          ["FastAPI", "Next.js", "PostgreSQL", "pgvector", "OpenAI"],
+    "building":       ["Sentinel (uptime monitoring)", "DocuZen (AI document Q&A)", "AI Tutor (Socratic method)"],
+    "exploring":      ["RAG pipelines", "Vector search", "Cloud infrastructure"],
+    "stack":          ["FastAPI", "Next.js", "PostgreSQL", "pgvector", "AWS", "Terraform"],
     "fun_fact":       "6'3\" — irrelevant, but noted",
     "directive":      "BUILD · LEARN · SHIP"
 }
@@ -32,7 +32,7 @@ denzel = {
 <div align="center">
 
 [![Skills](https://skillicons.dev/icons?i=python,typescript,javascript,fastapi,nextjs,react,postgres,docker&theme=dark)](https://skillicons.dev)
-[![Skills](https://skillicons.dev/icons?i=git,github,vscode,tailwind,nodejs,mongodb,linux,figma&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,github,vscode,tailwind,nodejs,mongodb,linux,aws&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -42,7 +42,8 @@ denzel = {
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| **[DenzOS](https://denzos-platform.netlify.app)** | Personal portfolio themed after Interstellar. Orbital system, cinematic intro, live contact form. | Next.js · TypeScript · Tailwind | ✅ Live |
+| **[DenzOS](https://platform-nine-ochre.vercel.app)** | Personal portfolio themed after Interstellar. Orbital system, cinematic intro, live contact form. | Next.js · TypeScript · Tailwind | ✅ Live |
+| **[Sentinel](https://sentinel-kappa-wine.vercel.app)** | Uptime monitoring system. Checks every 60 seconds, emails you on down and recovery. Real infrastructure — AWS Lambda, DynamoDB, EventBridge, Terraform. | Next.js · AWS Lambda · DynamoDB · SES · Terraform | ✅ Live |
 | **[DocuZen](https://docuzen.netlify.app)** | Upload any PDF or Word doc, ask questions in plain English, get precise answers with page citations. Built to learn RAG. Password: `docuzen2026` | FastAPI · pgvector · PostgreSQL · OpenAI · Next.js | ✅ Live |
 | **[LinkUp](https://boisterous-biscotti-ebb824.netlify.app)** | Peer-to-peer marketplace for South Africa. Listings, cart, user management, admin controls. | HTML · CSS · JavaScript · FastAPI · MongoDB | ✅ Live |
 | **AI Tutor** *(coming soon)* | Socratic-method AI tutor. Guides you to answers through questions, tracks weak spots across sessions. | FastAPI · OpenAI · PostgreSQL · React | 🔨 In progress |
@@ -95,17 +96,18 @@ denzel = {
 ### 🎯 Currently Building
 
 ```
-🌌  DenzOS    — denzos-platform.netlify.app
+🌌  DenzOS    — platform-nine-ochre.vercel.app
+🛡️  Sentinel  — sentinel-kappa-wine.vercel.app
 📄  DocuZen   — docuzen.netlify.app  (password: docuzen2026)
 🧠  AI Tutor  — Socratic method tutoring agent (up next)
-📚  Learning  — System design · AI fundamentals · Python depth
+📚  Learning  — Cloud infrastructure · AI fundamentals · System design
 ```
 
 ---
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-DenzOS-4A9C6F?style=for-the-badge&labelColor=0D1117)](https://denzos-platform.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-DenzOS-4A9C6F?style=for-the-badge&labelColor=0D1117)](https://platform-nine-ochre.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/denzel-chingodza-45b6ab3a0/)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:denzel.chingodza@icloud.com)
 
