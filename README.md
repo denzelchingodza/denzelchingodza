@@ -14,7 +14,7 @@
 
 ```python
 denzel = {
-    "location":       "South Africa 🌍",
+    "location":       "South Africa ",
     "role":           "Final Year Software Engineering Student",
     "philosophy":     "Tutorials don't stick — projects do.",
     "building":       ["Sentinel (uptime monitoring)", "DocuZen (AI document Q&A)", "AI Tutor (Socratic method)"],
@@ -38,7 +38,7 @@ denzel = {
 
 ---
 
-### 🚀 Projects
+###  Projects
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
@@ -50,7 +50,7 @@ denzel = {
 
 ---
 
-### 📊 Stats
+###  Stats
 
 <div align="center">
 
@@ -63,7 +63,7 @@ denzel = {
 
 ---
 
-### 🏆 Trophies
+###  Trophies
 
 <div align="center">
 
@@ -73,7 +73,7 @@ denzel = {
 
 ---
 
-### 📈 Activity
+###  Activity
 
 <div align="center">
 
@@ -83,7 +83,7 @@ denzel = {
 
 ---
 
-### 🐍 Contributions
+###  Contributions
 
 <div align="center">
 
@@ -93,14 +93,14 @@ denzel = {
 
 ---
 
-### 🎯 Currently Building
+###  Currently Building
 
 ```
-🌌  DenzOS    — platform-nine-ochre.vercel.app
-🛡️  Sentinel  — sentinel-kappa-wine.vercel.app
-📄  DocuZen   — docuzen.netlify.app  (password: docuzen2026)
-🧠  AI Tutor  — Socratic method tutoring agent (up next)
-📚  Learning  — Cloud infrastructure · AI fundamentals · System design
+  DenzOS    — platform-nine-ochre.vercel.app
+  Sentinel  — sentinel-kappa-wine.vercel.app
+  DocuZen   — docuzen.netlify.app  (password: docuzen2026)
+  AI Tutor  — Socratic method tutoring agent (up next)
+  Learning  — Cloud infrastructure · AI fundamentals · System design
 ```
 
 ---
