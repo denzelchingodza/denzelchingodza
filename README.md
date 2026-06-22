@@ -45,7 +45,7 @@ denzel = {
 | **[DenzOS](https://platform-nine-ochre.vercel.app)** | Personal portfolio themed after Interstellar. Orbital system, cinematic intro, live contact form. | Next.js · TypeScript · Tailwind | ✅ Live |
 | **[Sentinel](https://sentinel-kappa-wine.vercel.app)** | Uptime monitoring system. Checks every 60 seconds, emails you on down and recovery. Real infrastructure — AWS Lambda, DynamoDB, EventBridge, Terraform. | Next.js · AWS Lambda · DynamoDB · SES · Terraform | ✅ Live |
 | **[DocuZen](https://docuzen.netlify.app)** | Upload any PDF or Word doc, ask questions in plain English, get precise answers with page citations. Built to learn RAG. Password: `docuzen2026` | FastAPI · pgvector · PostgreSQL · OpenAI · Next.js | ✅ Live |
-| **[LinkUp](https://boisterous-biscotti-ebb824.netlify.app)** | Peer-to-peer marketplace for South Africa. Listings, cart, user management, admin controls. | HTML · CSS · JavaScript · FastAPI · MongoDB | ✅ Live |
+| **[LinkUp]( https://ecommerce-seven-iota-31.vercel.app/)** | Peer-to-peer marketplace for South Africa. Listings, cart, user management, admin controls. | HTML · CSS · JavaScript · FastAPI · MongoDB | ✅ Live |
 | **AI Tutor** *(coming soon)* | Socratic-method AI tutor. Guides you to answers through questions, tracks weak spots across sessions. | FastAPI · OpenAI · PostgreSQL · React | 🔨 In progress |
 
 ---
