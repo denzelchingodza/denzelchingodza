@@ -10,11 +10,9 @@
 
 ## About
 
-I am a final year BSc Information Technology (Software Engineering) student at Eduvos, Cape Town. I build real projects because that is how I actually learn — not through tutorials, but through figuring things out when something is broken and needs to work.
-
-Over the past year I built Sentinel, a fully serverless uptime monitoring system running on AWS Lambda, DynamoDB, EventBridge, and SES with Terraform-managed infrastructure. I built DocuZen, an AI-powered document Q&A system using a Retrieval-Augmented Generation pipeline — covering PDF ingestion, token-aware chunking, text embeddings, and cosine similarity search with pgvector. I built LinkUp, a peer-to-peer marketplace, and DenzOS, my personal portfolio. Every project is deployed, live, and used by real people.
-
-My current focus is cloud infrastructure, AI systems, and building things that require understanding the full stack — from the database schema to the deployment pipeline. I am looking for an internship or junior role where I can contribute to real work and keep learning at pace.
+I am lowkey a software engineering student based in Cape Town. Genuinely passionate about software not in a surface level way, but in the way where I will spend a long stretch of time just thinking through a problem or some cool stuff to make with a computer. Seeing real software solve real problems is what drives me. I am not motivated by certificates or structured courses which without taking away from their credebility what they mean and carry infect I am motivated by curiosity and by the work of other engineers whose projects make me stop and think about how they built it and beyond that how they came up with a solution and implemented it with software architectures and design models and STUFF. 
+I learn by building. Every project I have worked on started because I wanted to understand something. That process figuring out why something is broken, reading the docs properly, making architecture decisions without a safety net is where my actual growth happens. This growth and challenges that i face in doing so allows me to gain literally a percentile of the whole picture and overview of whatever the problem or solution actually is. And so i am highly motivated to know what more knowledge and experience brings. 
+I have a strong foundation in mathematics and I am increasingly drawn to applying that seriously in AI and machine learning. I want to understand the models themselves, not just call the APIs. I have already started there with RAG pipelines and embedding based search, and the interest keeps growing. But software engineering is still home the infrastructure, the clean system design, the craft of building something that actually holds up over time. Both things are true and I am not choosing between them but rather embracing both as one and seeing where it takes me!
 
 ---
 
