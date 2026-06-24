@@ -44,7 +44,7 @@ I have a strong foundation in mathematics and I am increasingly drawn to applyin
 |---------|-----------|-------|
 | **[DenzOS](https://platform-nine-ochre.vercel.app)** | Personal portfolio. Custom Canvas animations, orbital layout, cinematic intro. | Next.js · TypeScript · Tailwind |
 | **[Sentinel](https://sentinel-kappa-wine.vercel.app)** | Serverless uptime monitoring. Checks every 60 seconds, emails on down and recovery. Full AWS infrastructure provisioned with Terraform. Multi-user auth via Cognito. | AWS Lambda · DynamoDB · EventBridge · SES · Terraform · Next.js |
-| **[DocuZen](https://docuzen.netlify.app)** | Upload a PDF or Word doc, ask questions in plain English, get precise answers with page-level citations. Built on a RAG pipeline. Password: `docuzen2026` | FastAPI · pgvector · PostgreSQL · OpenAI · Next.js · Docker |
+| **[DocuZen](https://doc-analyzer-as5k.vercel.app/)** | Upload a PDF or Word doc, ask questions in plain English, get precise answers with page-level citations. Built on a RAG pipeline. Password: `docuzen2026` | FastAPI · pgvector · PostgreSQL · OpenAI · Next.js · Docker |
 | **[LinkUp](https://ecommerce-seven-iota-31.vercel.app)** | Peer-to-peer marketplace for South Africa. Product listings, cart, user management, admin controls. | FastAPI · MongoDB · HTML · CSS · JavaScript |
 | **AI Tutor** *(in progress)* | Socratic-method tutoring agent. Guides you toward answers through questions, tracks weak spots across sessions. | FastAPI · OpenAI · PostgreSQL · React |
 
