@@ -10,11 +10,11 @@
 
 ## About
 
-I am a software engineering student based in Cape Town. Genuinely passionate about software not in a surface level way, but in the way where I will spend a long stretch of time just thinking through a problem or some cool thing to make with a computer before I write a single line. Seeing real software solve real problems is what drives me. I am not motivated by certificates or structured courses without taking away from their credibility and what they carry, I am motivated by curiosity and by the work of other engineers whose projects make me stop and think about how they built it, and beyond that, how they came up with the solution and turned it into something real using software architectures and design patterns and everything in between.
-
-I learn by building. Every project I have worked on started because I wanted to understand something. That process figuring out why something is broken, reading the docs properly, making architecture decisions without a safety net is where my actual growth happens. And every time I work through something like that, I realise I have only gained a fraction of the full picture. That is what keeps me motivated. I genuinely want to know what more knowledge and experience brings.
-
-I have a strong foundation in mathematics and I am increasingly drawn to applying it seriously in AI and machine learning. I want to understand the models themselves, not just call the APIs. I have already started there with RAG pipelines and embedding-based search, and the interest keeps growing. But software engineering is still home the infrastructure, the clean system design, the craft of building something that actually holds up over time. Both things are true and I am not choosing between them. I am embracing both and seeing where it takes me.
+Software Engineering student in Cape Town. I spend an unreasonable amount of time thinking about a problem before I write a single line, which my friends call overthinking and I call architecture.
+I learn by building things I actually wanted to exist. DocuZen started because I wanted to understand RAG pipelines and embedding-based search. Sentinel started because I had live projects and got tired of being the last to know they were down. LinkUp started as a school project and turned into a fully functional marketplace with PayFast integration, an admin panel, and more edge cases than I expected. Each one taught me that finishing something is where the real learning is.
+My foundation is in mathematics and it quietly shapes how I think about everything, not just the ML side, but system design, trade-offs, and the reasoning underneath the code. I want to understand the models, not just call the APIs. That interest is growing and I am following it seriously.
+Software engineering is still home though. Clean infrastructure, deliberate design decisions, building something that actually holds up. That craft matters to me. I am not choosing between engineering and AI. I am doing both and seeing what happens.
+Currently finishing my degree and looking for a place where I can do real work alongside people who take the craft seriously.
 
 ---
 
