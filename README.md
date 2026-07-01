@@ -42,7 +42,7 @@ Currently finishing my degree and looking for a place where I can do real work a
 
 | Project | What it is | Stack |
 |---------|-----------|-------|
-| **[DenzOS](https://platform-nine-ochre.vercel.app)** | Personal portfolio. Custom Canvas animations, orbital layout, cinematic intro. | Next.js · TypeScript · Tailwind |
+| **[DenzOS](https://denz-platform.vercel.app/)** | Personal portfolio. Custom Canvas animations, orbital layout, cinematic intro. | Next.js · TypeScript · Tailwind |
 | **[StackScope](https://stack-scope-eight.vercel.app/)** | A job marketing intelligence tool for developers in South Africa. Using Indeed, Pnet and Career24. | Python, HTML, CSS, JavaScript |
 | **[Sentinel](https://sentinel-kappa-wine.vercel.app)** | Serverless uptime monitoring. Checks every 60 seconds, emails on down and recovery. Full AWS infrastructure provisioned with Terraform. Multi-user auth via Cognito. | AWS Lambda · DynamoDB · EventBridge · SES · Terraform · Next.js |
 | **[DocuZen](https://doc-analyzer-as5k.vercel.app/)** | Upload a PDF or Word doc, ask questions in plain English, get precise answers with page-level citations. Built on a RAG pipeline. Password: `docuzen2026` | FastAPI · pgvector · PostgreSQL · OpenAI · Next.js · Docker |
@@ -68,7 +68,7 @@ Currently finishing my degree and looking for a place where I can do real work a
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-platform--nine--ochre.vercel.app-4A9C6F?style=for-the-badge&labelColor=0D1117)](https://platform-nine-ochre.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-platform--nine--ochre.vercel.app-4A9C6F?style=for-the-badge&labelColor=0D1117)](https://denz-platform.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-denzel--chingodza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/denzel-chingodza-45b6ab3a0/)
 [![Email](https://img.shields.io/badge/Email-denzel.chingodza%40icloud.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:denzel.chingodza@icloud.com)
 
