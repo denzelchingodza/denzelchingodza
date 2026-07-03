@@ -6,10 +6,6 @@
 
 <br>
 
-<table>
-<tr>
-<td valign="top" width="62%">
-
 ### About
 
 Final year BSc Software Engineering student in Cape Town. I build things to understand them. My background is in software engineering and mathematics, and that combination has never felt coincidental. Mathematics gave me a way of thinking about problems that goes deeper than tutorials and frameworks. It is what eventually pulled me toward AI and machine learning, not as a buzzword but as an engineering discipline I wanted to actually understand.
@@ -26,69 +22,21 @@ Software engineering is still home. Clean infrastructure, deliberate design deci
   <img src="https://img.shields.io/badge/Visit%20my%20platform%20%E2%86%92-2d333b?style=for-the-badge&labelColor=2d333b&color=2d333b&logoColor=e6edf3" />
 </a>
 
-</td>
-<td valign="top" width="38%" align="center">
-
-<br>
-
-<img src="./assets/denzel.svg" width="220" alt="Denzel" />
-
-</td>
-</tr>
-</table>
-
 <br>
 
 ---
 
 ### Stack
 
-<table>
-<tr>
-<td width="110"><strong>Languages</strong></td>
-<td>
-  <img src="https://img.shields.io/badge/Python-1c2128?style=flat-square&logo=python&logoColor=3fb950"/>
-  <img src="https://img.shields.io/badge/TypeScript-1c2128?style=flat-square&logo=typescript&logoColor=58a6ff"/>
-  <img src="https://img.shields.io/badge/JavaScript-1c2128?style=flat-square&logo=javascript&logoColor=e3b341"/>
-  <img src="https://img.shields.io/badge/SQL-1c2128?style=flat-square&logo=postgresql&logoColor=8b949e"/>
-</td>
-</tr>
-<tr>
-<td><strong>Backend</strong></td>
-<td>
-  <img src="https://img.shields.io/badge/FastAPI-1c2128?style=flat-square&logo=fastapi&logoColor=3fb950"/>
-  <img src="https://img.shields.io/badge/Next.js-1c2128?style=flat-square&logo=next.js&logoColor=e6edf3"/>
-  <img src="https://img.shields.io/badge/React-1c2128?style=flat-square&logo=react&logoColor=58a6ff"/>
-  <img src="https://img.shields.io/badge/Tailwind-1c2128?style=flat-square&logo=tailwindcss&logoColor=38bdf8"/>
-</td>
-</tr>
-<tr>
-<td><strong>Databases</strong></td>
-<td>
-  <img src="https://img.shields.io/badge/PostgreSQL-1c2128?style=flat-square&logo=postgresql&logoColor=58a6ff"/>
-  <img src="https://img.shields.io/badge/MongoDB-1c2128?style=flat-square&logo=mongodb&logoColor=3fb950"/>
-  <img src="https://img.shields.io/badge/DynamoDB-1c2128?style=flat-square&logo=amazondynamodb&logoColor=e3b341"/>
-  <img src="https://img.shields.io/badge/pgvector-1c2128?style=flat-square&logo=postgresql&logoColor=8b949e"/>
-</td>
-</tr>
-<tr>
-<td><strong>Cloud</strong></td>
-<td>
-  <img src="https://img.shields.io/badge/AWS%20Lambda-1c2128?style=flat-square&logo=awslambda&logoColor=f0883e"/>
-  <img src="https://img.shields.io/badge/Terraform-1c2128?style=flat-square&logo=terraform&logoColor=a371f7"/>
-  <img src="https://img.shields.io/badge/Docker-1c2128?style=flat-square&logo=docker&logoColor=58a6ff"/>
-  <img src="https://img.shields.io/badge/Vercel-1c2128?style=flat-square&logo=vercel&logoColor=e6edf3"/>
-</td>
-</tr>
-<tr>
-<td><strong>AI / ML</strong></td>
-<td>
-  <img src="https://img.shields.io/badge/OpenAI%20API-1c2128?style=flat-square&logo=openai&logoColor=3fb950"/>
-  <img src="https://img.shields.io/badge/RAG%20Pipelines-1c2128?style=flat-square&logo=databricks&logoColor=f85149"/>
-  <img src="https://img.shields.io/badge/Embeddings-1c2128?style=flat-square&logo=openai&logoColor=8b949e"/>
-</td>
-</tr>
-</table>
+```python
+# what i build with
+
+languages  =  ["Python", "TypeScript", "JavaScript", "SQL"]
+backend    =  ["FastAPI", "Next.js", "React", "Tailwind CSS"]
+databases  =  ["PostgreSQL", "pgvector", "MongoDB", "DynamoDB"]
+cloud      =  ["AWS Lambda", "EventBridge", "Terraform", "Docker", "Vercel"]
+ai_ml      =  ["RAG pipelines", "embeddings", "cosine similarity", "OpenAI API"]
+```
 
 <br>
 
