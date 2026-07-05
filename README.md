@@ -46,7 +46,7 @@ ai_ml      =  ["RAG pipelines", "embeddings", "cosine similarity", "OpenAI API"]
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| **[DenzOS](https://denz-platform.vercel.app/)** | Personal portfolio with custom canvas animations, orbital layout, and a cinematic entry sequence. | Next.js · TypeScript · Tailwind |
+| **[DenzOS](https://denz-platform.vercel.app/)** | Personal portfolio with custom canvas animations, orbital layout, and a cinematic entry sequence. | HTML · CSS · JavaScript |
 | **[StackScope](https://stack-scope-eight.vercel.app/)** | Tracks skill demand across PNet, Indeed, and Careers24 so South African developers can see what the market actually wants. | Python · Flask · HTML/CSS/JS |
 | **[Sentinel](https://sentinel-kappa-wine.vercel.app)** | Serverless uptime monitor that checks your sites every 60 seconds and emails you on down and recovery. Full AWS infrastructure via Terraform with Cognito auth. | Lambda · DynamoDB · EventBridge · SES · Terraform · Next.js |
 | **[DocuZen](https://doc-analyzer-as5k.vercel.app/)** | Upload a PDF or Word doc, ask questions in plain English, get precise answers with page-level citations. Built on a RAG pipeline with vector search. | FastAPI · pgvector · PostgreSQL · OpenAI · Next.js · Docker |
