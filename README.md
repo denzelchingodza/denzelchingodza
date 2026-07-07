@@ -63,11 +63,11 @@ ai_ml      =  ["RAG pipelines", "embeddings", "cosine similarity", "OpenAI API"]
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/denz--platform.vercel.app-2d333b?style=flat-square&logo=vercel&logoColor=e6edf3)](https://denz-platform.vercel.app/)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2d333b?style=flat-square&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/denzel-chingodza-45b6ab3a0/)
-&nbsp;
-[![Email](https://img.shields.io/badge/denzel.chingodza%40icloud.com-2d333b?style=flat-square&logo=apple&logoColor=e6edf3)](mailto:denzel.chingodza@icloud.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-denz--platform.vercel.app-58a6ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=21262d)](https://denz-platform.vercel.app/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Denzel%20Chingodza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/denzel-chingodza-45b6ab3a0/)
+
+[![Email](https://img.shields.io/badge/Email-denzel.chingodza%40icloud.com-3fb950?style=for-the-badge&logo=apple&logoColor=white&labelColor=21262d)](mailto:denzel.chingodza@icloud.com)
 
 </div>
 
