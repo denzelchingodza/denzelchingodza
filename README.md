@@ -43,15 +43,18 @@ ai_ml      =  ["RAG pipelines", "embeddings", "cosine similarity", "OpenAI API"]
 ---
 
 ### Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denzelchingodza&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=denzelchingodza&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denzelchingodza&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=7&count_private=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=denzelchingodza&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=denzelchingodza&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=denzelchingodza&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&hide_border=true" width="100%"/>
 </p>
 
 <br>
