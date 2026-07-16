@@ -10,7 +10,7 @@
 
 Final year BSc Software Engineering student in Cape Town. I build things to understand them. My background is in software engineering and mathematics, and that combination has never felt coincidental. Mathematics gave me a way of thinking about problems that goes deeper than tutorials and frameworks. It is what eventually pulled me toward AI and machine learning, not as a buzzword but as an engineering discipline I wanted to actually understand.
 
-I spend an unreasonable amount of time thinking about a problem before I write a single line. My friends call it overthinking. I call it architecture.
+I spend an unreasonable amount of time thinking about problems before I write a single line. My friends call it overthinking. I call it architecture.
 
 As a developer I build full systems: backends, databases, APIs, and cloud infrastructure. Everything I have shipped is something I designed and built from scratch. I pick a problem, figure out what it needs, and build it until it works. Each project taught me that finishing something is where the real learning is.
 
