@@ -12,7 +12,7 @@ Final year BSc Software Engineering student in Cape Town. I build things to unde
 
 I spend an unreasonable amount of time thinking about problems before I write a single line. My friends call it overthinking. I call it architecture.
 
-As a developer I build full systems: backends, databases, APIs, and cloud infrastructure. Everything I have shipped is something I designed and built from scratch. I pick a problem, figure out what it needs, and build it until it works. Each project taught me that finishing something is where the real learning is.
+As a developer I build full systems backends, databases, APIs, and cloud infrastructure. Everything I have shipped is something I designed and built from scratch. I pick a problem, figure out what it needs, and build it until it works. Each project taught me that finishing something is where the real learning is.
 
 Along the way I have picked up Terraform for infrastructure as code, pgvector and retrieval augmented generation for AI pipelines, serverless architecture on AWS, and building natural language interfaces that sit on top of existing systems. None of it was planned. Each one was learned because a project needed it. That is still how it works.
 
