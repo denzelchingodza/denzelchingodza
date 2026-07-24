@@ -1,5 +1,5 @@
-<img src="header.svg" width="100%"/>
-<br>
+# Denzel Chingodza
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=denzelchingodza&color=8b949e&style=flat-square&label=profile+views)
 <br>
