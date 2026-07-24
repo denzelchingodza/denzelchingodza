@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c2128,100:2d333b&height=115&section=header&text=Denzel%20Chingodza&fontSize=36&fontColor=e6edf3&desc=Software%20Engineer%20%C2%B7%20Cape%20Town%2C%20South%20Africa&descSize=14&descAlignY=72&animation=fadeIn" width="100%"/>
+<img src="header.svg" width="100%"/>
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=denzelchingodza&color=8b949e&style=flat-square&label=profile+views)
