@@ -6,7 +6,7 @@
 
 ### About
 
-Final year BSc Software Engineering student. I build full systems — backends, databases, APIs, cloud infrastructure — and I'm deepening my work in AI engineering, specifically NLP and language models. My background in software engineering and mathematics shaped how I think about problems, and that foundation is what I build everything on top of. I have shipped real projects from scratch, including a full-stack platform built for a client, and I am ready to contribute in a professional environment.
+Final year BSc Software Engineering student. I build full systems backends, databases, APIs, cloud infrastructure and I'm deepening my work in AI engineering, specifically NLP and language models. My background in software engineering and mathematics shaped how I think about problems, and that foundation is what I build everything on top of. I have shipped real projects from scratch, including a full stack platform built for a client, and I am ready to contribute in a professional environment.
 
 <br>
 
