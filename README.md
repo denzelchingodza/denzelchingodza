@@ -89,17 +89,17 @@ Final year BSc Software Engineering student. I build full systems backends, data
 ---
 
 <div align="center">
-<a href="https://denz-platform.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-denz--platform.vercel.app-58a6ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/denzel-chingodza-45b6ab3a0/">
-  <img src="https://img.shields.io/badge/LinkedIn-Denzel%20Chingodza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
-</a>
-&nbsp;
-<a href="mailto:denzel.chingodza@icloud.com">
-  <img src="https://img.shields.io/badge/Email-denzel.chingodza%40icloud.com-3fb950?style=for-the-badge&logo=apple&logoColor=white&labelColor=0d1117"/>
-</a>
+  <a href="https://denz-platform.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/denzel-chingodza-45b6ab3a0/">
+    <img src="https://img.shields.io/badge/-LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:denzel.chingodza@icloud.com">
+    <img src="https://img.shields.io/badge/-Email-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+  </a>
 </div>
 <br>
 
