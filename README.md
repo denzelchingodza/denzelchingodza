@@ -1,17 +1,24 @@
 # Denzel Chingodza
-![Profile Views](https://komarev.com/ghpvc/?username=denzelchingodza&color=58a6ff&style=flat-square&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=denzelchingodza&color=8b949e&style=flat-square&label=profile+views)
+<br>
 
 ### About
 Final year BSc Software Engineering student. I build full systems backends, databases, APIs, cloud infrastructure and I'm deepening my work in AI engineering, specifically NLP and language models. My background in software engineering and mathematics shaped how I think about problems, and that foundation is what I build everything on top of. I have shipped real projects from scratch, including a full stack platform built for a client, and I am ready to contribute in a professional environment.
+<br>
 
-> *"Without commitment you'll never start, but more importantly without consistency you'll never finish. Ease is a greater threat to progress than hardship. So keep moving, keep growing, keep learning. See you at work."*
+> *"Without commitment you'll never start, but more importantly without consistency you'll never finish. Ease is a greater threat to progress than Hardship. So keep moving, keep growing, keep learning. See you at work."*
 > — Denzel Washington
+
+<br>
 
 <a href="https://denz-platform.vercel.app/">
   <img src="https://img.shields.io/badge/See%20everything%20I%20have%20built%20%E2%86%92-58a6ff?style=for-the-badge&labelColor=21262d&color=58a6ff&logoColor=ffffff" />
 </a>
 
+<br>
+
 ### Stack
+<br>
 
 **Languages**
 <p>
@@ -57,15 +64,22 @@ Final year BSc Software Engineering student. I build full systems backends, data
   <img src="https://img.shields.io/badge/Embeddings-8b949e?style=flat-square&logoColor=white"/>
 </p>
 
+<br>
+
 ### Stats
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=denzelchingodza&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=denzelchingodza&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denzelchingodza&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=7&count_private=true" height="165"/>
 </p>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=denzelchingodza&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3"/>
+</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=denzelchingodza&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&hide_border=true" width="100%"/>
 </p>
+
+<br>
 
 <div align="center">
   <a href="https://denz-platform.vercel.app/">
@@ -82,5 +96,4 @@ Final year BSc Software Engineering student. I build full systems backends, data
 </div>
 
 <br>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d333b,100:1c2128&height=90&section=footer" width="100%"/>
