@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 style="font-size:3em;">Denzel Chingodza</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&pause=1000&color=E6EDF3&center=true&vCenter=true&width=600&height=70&lines=Denzel+Chingodza" alt="Denzel Chingodza" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=denzelchingodza&color=58a6ff&style=flat-square&label=profile+views)
 
@@ -8,7 +8,7 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/See%20my%20work%20%E2%86%92-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://denz-platform.vercel.app/)
+**[→ denz-platform.vercel.app](https://denz-platform.vercel.app/)**
 
 <br>
 
