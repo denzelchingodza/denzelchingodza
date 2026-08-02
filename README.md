@@ -1,10 +1,16 @@
 <div align="center">
 
-# Denzel Chingodza
+<h1 style="font-size:3em;">Denzel Chingodza</h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=denzelchingodza&color=58a6ff&style=flat-square&label=profile+views)
 
-**Software Engineer · AI & Full-Stack · South Africa · [denz-platform.vercel.app](https://denz-platform.vercel.app/)**
+**Software Engineer · AI & Full-Stack · South Africa**
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/See%20my%20work%20%E2%86%92-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://denz-platform.vercel.app/)
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/denzel-chingodza-45b6ab3a0/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:denzel.chingodza@icloud.com)
