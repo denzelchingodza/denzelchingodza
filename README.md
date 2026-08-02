@@ -8,7 +8,7 @@
 
 <br>
 
-**[→ denz-platform.vercel.app](https://denz-platform.vercel.app/)**
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio%20%E2%86%92-58a6ff?style=for-the-badge&logoColor=white)](https://denz-platform.vercel.app/)
 
 <br>
 
