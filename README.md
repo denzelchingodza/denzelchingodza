@@ -4,26 +4,23 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=denzelchingodza&color=58a6ff&style=flat-square&label=profile+views)
 
-**Software Engineer · AI & Full Stack · South Africa**
+**Software Engineer · AI & Full-Stack · South Africa · [denz-platform.vercel.app](https://denz-platform.vercel.app/)**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio%20→-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://denz-platform.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/denzel-chingodza-45b6ab3a0/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denzel.chingodza@icloud.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/denzel-chingodza-45b6ab3a0/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:denzel.chingodza@icloud.com)
 
 </div>
 
----
+<br>
 
-### About
+Final year BSc Software Engineering student. I build full systems: backends, APIs, databases, and cloud infrastructure, and I am going deep on AI engineering including RAG pipelines, vector search, semantic retrieval, and language models in production.
 
-Final year BSc Software Engineering student. I build full systems backends, APIs, databases, and cloud infrastructure and I'm going deep on AI engineering: RAG pipelines, vector search, semantic retrieval, and language models in production.
-
-I have shipped a production RAG system with page-level citations, built a full stack client platform from scratch, and designed cloud infrastructure on AWS. My background in software engineering and mathematics shapes how I approach problems I care about understanding systems at a fundamental level, not just making them work.
+I have shipped a production RAG system with page level citations, built a full-stack client platform from scratch, and designed cloud infrastructure on AWS. My background in software engineering and mathematics shapes how I approach problems. I care about understanding systems at a fundamental level, not just making them work.
 
 > *"Without commitment you'll never start, but more importantly without consistency you'll never finish. Ease is a greater threat to progress than hardship. So keep moving, keep growing, keep learning."*
 > — Denzel Washington
 
----
+<br>
 
 ### Stack
 
@@ -66,7 +63,7 @@ I have shipped a production RAG system with page-level citations, built a full s
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-8b949e?style=flat-square&logoColor=white)
 ![Vector Search](https://img.shields.io/badge/Vector_Search-8b949e?style=flat-square&logoColor=white)
 
----
+<br>
 
 ### Stats
 
@@ -83,8 +80,6 @@ I have shipped a production RAG system with page-level citations, built a full s
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=denzelchingodza&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&hide_border=true" width="100%"/>
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d333b,100:1c2128&height=90&section=footer" width="100%"/>
