@@ -23,7 +23,7 @@ Final year BSc Software Engineering student. I build full systems: backends, API
 
 I have shipped a production RAG system with page level citations, built a full stack client platform from scratch, and designed cloud infrastructure on AWS. My background in software engineering and mathematics shapes how I approach problems. I care about understanding systems at a fundamental level, not just making them work.
 
-> *"Without commitment you'll never start, but more importantly without consistency you'll never finish. Ease is a greater threat to progress than hardship. So keep moving, keep growing, keep learning."*
+> *"Without commitment you'll never start, but more importantly without consistency you'll never finish. Ease is a greater threat to progress than hardship. So keep moving, keep growing, keep learning. SEE YOU AT WORK!"*
 > Denzel Washington
 
 <br>
