@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=denzelchingodza&color=58a6ff&style=flat-square&label=profile+views)
 
-**Software Engineer · AI & Full Stack · South Africa**
+**Software Engineer · AI & Backend Engineer · South Africa**
 
 <br>
 
