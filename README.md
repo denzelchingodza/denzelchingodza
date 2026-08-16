@@ -1,5 +1,25 @@
-# Denzel Chingodza
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&pause=1000&color=E6EDF3&center=true&vCenter=true&width=600&height=70&lines=Denzel+Chingodza" alt="Denzel Chingodza" />
+
 ![Profile Views](https://komarev.com/ghpvc/?username=denzelchingodza&color=8b949e&style=flat-square&label=profile+views)
+
+<a href="https://linkedin.com/in/denzel-chingodza-45b6ab3a0/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:denzel.chingodza@icloud.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<a href="https://denz-platform.vercel.app/">
+  <img src="https://img.shields.io/badge/See%20everything%20I%20have%20built%20%E2%86%92-58a6ff?style=for-the-badge&labelColor=21262d&color=58a6ff&logoColor=ffffff" />
+</a>
+
 <br>
 
 ### About
@@ -8,12 +28,6 @@ Final year BSc Software Engineering student. I build full systems backends, data
 
 > *"Without commitment you'll never start, but more importantly without consistency you'll never finish. Ease is a greater threat to progress than Hardship. So keep moving, keep growing, keep learning. See you at work."*
 > — Denzel Washington
-
-<br>
-
-<a href="https://denz-platform.vercel.app/">
-  <img src="https://img.shields.io/badge/See%20everything%20I%20have%20built%20%E2%86%92-58a6ff?style=for-the-badge&labelColor=21262d&color=58a6ff&logoColor=ffffff" />
-</a>
 
 <br>
 
@@ -98,4 +112,4 @@ Final year BSc Software Engineering student. I build full systems backends, data
 </div>
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d333b,100:1c2128&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=30363d&height=90&section=footer" width="100%"/>
