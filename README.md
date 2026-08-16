@@ -3,7 +3,7 @@
 <br>
 
 ### About
-Final year BSc Software Engineering student. I build full systems: backends, APIs, databases, and cloud infrastructure, and I am going deep on AI engineering including RAG pipelines, vector search, semantic retrieval, and language model fine-tuning in production. My background in software engineering and mathematics shapes how I approach problems. I have shipped real projects from scratch, including a production RAG system, a serverless AWS platform, a Shona-language LLM fine-tuned on free-tier compute, and a full stack platform built for a real client.
+Final year BSc Software Engineering student. I build full systems backends, databases, APIs, cloud infrastructure and I'm deepening my work in AI engineering, specifically NLP and language models. My background in software engineering and mathematics shaped how I think about problems, and that foundation is what I build everything on top of. I have shipped real projects from scratch, including a full stack platform built for a client, and I am ready to contribute in a professional environment.
 <br>
 
 > *"Without commitment you'll never start, but more importantly without consistency you'll never finish. Ease is a greater threat to progress than Hardship. So keep moving, keep growing, keep learning. See you at work."*
