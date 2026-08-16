@@ -12,13 +12,17 @@
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+<br>
+
+**Software Developer · AI & Backend Engineer · South Africa**
 
 <br>
 
 <a href="https://denz-platform.vercel.app/">
   <img src="https://img.shields.io/badge/See%20everything%20I%20have%20built%20%E2%86%92-58a6ff?style=for-the-badge&labelColor=21262d&color=58a6ff&logoColor=ffffff" />
 </a>
+
+</div>
 
 <br>
 
