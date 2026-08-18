@@ -34,7 +34,7 @@ Final year BSc Software Engineering student. I build full systems backends, data
 
 > *"Without commitment you'll never start, but more importantly without consistency you'll never finish. Ease is a greater threat to progress than Hardship. So keep moving, keep growing, keep learning. See you at work."*
 >
-> — Denzel Washington
+> ~Denzel Washington
 
 <br>
 
