@@ -24,16 +24,16 @@
 
 <br>
 
-Final year BSc Software Engineering student. Python first, backend heavy, and increasingly deep in AI engineering (RAG pipelines, fine tuning, vector search, the infrastructure underneath the models).
+Final year BSc Software Engineering student at Stellenbosch University. Python-first, backend-heavy, and increasingly deep in AI engineering — RAG pipelines, fine-tuning, vector search, the infrastructure underneath the models.
 
-I ship production projects: a serverless uptime monitor on AWS, a job market analytics tool, a RAG document search system, a full platform for a real client, and a fine tuned Shona language model built entirely on free compute.
+I ship production projects from scratch: a serverless uptime monitor on AWS, a job market analytics tool, a RAG document search system, a full platform for a real client, and a fine-tuned Shona language model built entirely on free compute.
 
 My background in mathematics shapes how I approach problems. I think in systems, not just features.
 
 <br>
 
 > *"Without commitment you'll never start, but more importantly without consistency you'll never finish. Ease is a greater threat to progress than hardship. So keep moving, keep growing, keep learning. See you at work."*
-> - Denzel Washington
+> — Denzel Washington
 
 <br>
 
