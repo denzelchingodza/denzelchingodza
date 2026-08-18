@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=40&pause=1000&color=E6EDF3&center=true&vCenter=true&width=600&height=70&lines=Denzel+Chingodza" alt="Denzel Chingodza" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&pause=1000&color=E6EDF3&center=true&vCenter=true&width=600&height=70&lines=Denzel+Chingodza" alt="Denzel Chingodza" />
 
-**Software Engineer · AI & Backend · South Africa**
-
-<br>
+![Profile Views](https://komarev.com/ghpvc/?username=denzelchingodza&color=8b949e&style=flat-square&label=profile+views)
 
 <a href="https://linkedin.com/in/denzel-chingodza-45b6ab3a0/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
@@ -13,26 +11,29 @@
 <a href="mailto:denzel.chingodza@icloud.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;
+
+<br>
+
+**Software Developer · AI & Backend Engineer · South Africa**
+
+<br>
+
 <a href="https://denz-platform.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-58a6ff?style=flat-square&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/See%20everything%20I%20have%20built%20%E2%86%92-58a6ff?style=for-the-badge&labelColor=21262d&color=58a6ff&logoColor=ffffff" />
 </a>
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=denzelchingodza&color=8b949e&style=flat-square&label=views)
 
 </div>
 
 <br>
 
-Final year BSc Software Engineering student at Stellenbosch University. Python-first, backend-heavy, and increasingly deep in AI engineering — RAG pipelines, fine-tuning, vector search, the infrastructure underneath the models.
+### About
 
-I ship production projects from scratch: a serverless uptime monitor on AWS, a job market analytics tool, a RAG document search system, a full platform for a real client, and a fine-tuned Shona language model built entirely on free compute.
-
-My background in mathematics shapes how I approach problems. I think in systems, not just features.
+Final year BSc Software Engineering student. I build full systems backends, databases, APIs, cloud infrastructure and I'm deepening my work in AI engineering, specifically NLP and language models. My background in software engineering and mathematics shaped how I think about problems, and that foundation is what I build everything on top of. I have shipped real projects from scratch, including a full stack platform built for a client, and I am ready to contribute in a professional environment.
 
 <br>
 
-> *"Without commitment you'll never start, but more importantly without consistency you'll never finish. Ease is a greater threat to progress than hardship. So keep moving, keep growing, keep learning. See you at work."*
+> *"Without commitment you'll never start, but more importantly without consistency you'll never finish. Ease is a greater threat to progress than Hardship. So keep moving, keep growing, keep learning. See you at work."*
+>
 > — Denzel Washington
 
 <br>
@@ -102,6 +103,22 @@ My background in mathematics shapes how I approach problems. I think in systems,
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=denzelchingodza&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&hide_border=true" width="100%"/>
 </p>
+
+<br>
+
+<div align="center">
+  <a href="https://denz-platform.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/denzel-chingodza-45b6ab3a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:denzel.chingodza@icloud.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
 <br>
 
