@@ -33,7 +33,7 @@ My background in mathematics shapes how I approach problems. I think in systems,
 <br>
 
 > *"Without commitment you'll never start, but more importantly without consistency you'll never finish. Ease is a greater threat to progress than hardship. So keep moving, keep growing, keep learning. See you at work."*
-> ~ Denzel Washington
+> - Denzel Washington
 
 <br>
 
