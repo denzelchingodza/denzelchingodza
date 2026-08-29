@@ -1,9 +1,6 @@
 <div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&pause=1000&color=E6EDF3&center=true&vCenter=true&width=600&height=70&lines=Denzel+Chingodza" alt="Denzel Chingodza" />
-
-<img src="https://komarev.com/ghpvc/?username=denzelchingodza&color=8b949e&style=flat-square&label=profile+views" alt="Profile Views"/>
-
+![Profile Views](https://komarev.com/ghpvc/?username=denzelchingodza&color=8b949e&style=flat-square&label=profile+views)
 <a href="https://linkedin.com/in/denzel-chingodza-45b6ab3a0/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
@@ -11,46 +8,32 @@
 <a href="mailto:denzel.chingodza@icloud.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-
 <br>
-
-<strong>Software Developer · AI & Backend Engineer · South Africa</strong>
-
+**Software Developer · AI & Backend Engineer · South Africa**
 <br>
-
 <a href="https://denz-platform.vercel.app/">
   <img src="https://img.shields.io/badge/See%20everything%20I%20have%20built%20%E2%86%92-58a6ff?style=for-the-badge&labelColor=21262d&color=58a6ff&logoColor=ffffff" />
 </a>
-
 </div>
-
 <br>
-
 ### About
-
 Final year BSc Software Engineering student. I build full systems backends, databases, APIs, cloud infrastructure and I'm deepening my work in AI engineering, specifically NLP and language models. My background in software engineering and mathematics shaped how I think about problems, and that foundation is what I build everything on top of. I have shipped real projects from scratch, including a full stack platform built for a client, and I am ready to contribute in a professional environment.
-
 <br>
 
-> *"Without commitment you'll never start, but more importantly without consistency you'll never finish. Ease is a greater threat to progress than Hardship. So keep moving, keep growing, keep learning. See you at work!"*
->
-> ~ Denzel Washington
+*"Without commitment you'll never start, but more importantly without consistency you'll never finish. Ease is a greater threat to progress than Hardship. So keep moving, keep growing, keep learning. See you at work!"*
+
+~ Denzel Washington
 
 <br>
-
 ### Stack
-
 **Languages**
-
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
-
 **Backend & Frontend**
-
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
@@ -58,18 +41,14 @@ Final year BSc Software Engineering student. I build full systems backends, data
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
-
 **Databases**
-
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/pgvector-316192?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"/>
 </p>
-
 **Cloud & Infrastructure**
-
 <p>
   <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
   <img src="https://img.shields.io/badge/EventBridge-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
@@ -78,9 +57,7 @@ Final year BSc Software Engineering student. I build full systems backends, data
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
 </p>
-
 **AI & ML**
-
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
@@ -90,7 +67,7 @@ Final year BSc Software Engineering student. I build full systems backends, data
   <img src="https://img.shields.io/badge/RAG_Pipelines-8b949e?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vector_Search-8b949e?style=flat-square&logoColor=white"/>
 </p>
-
+<br>
 <br>
 
 ### Stats
@@ -108,23 +85,3 @@ Final year BSc Software Engineering student. I build full systems backends, data
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=denzelchingodza&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&hide_border=true" width="100%"/>
 </p>
-
-<br>
-
-<div align="center">
-  <a href="https://denz-platform.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/denzel-chingodza-45b6ab3a0/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:denzel.chingodza@icloud.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=30363d&height=90&section=footer" width="100%"/>
