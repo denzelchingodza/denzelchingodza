@@ -68,20 +68,31 @@ Final year BSc Software Engineering student. I build full systems backends, data
   <img src="https://img.shields.io/badge/Vector_Search-8b949e?style=flat-square&logoColor=white"/>
 </p>
 <br>
-<br>
-
 ### Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=denzelchingodza&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=58a6ff&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denzelchingodza&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&langs_count=7&count_private=true" height="165"/>
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=denzelchingodza&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=e6edf3"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=denzelchingodza&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&hide_border=true" width="100%"/>
 </p>
+<br>
+<div align="center">
+  <a href="https://denz-platform.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/denzel-chingodza-45b6ab3a0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:denzel.chingodza@icloud.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=30363d&height=90&section=footer" width="100%"/>
