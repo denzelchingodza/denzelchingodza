@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&pause=1000&color=E6EDF3&center=true&vCenter=true&width=600&height=70&lines=Denzel+Chingodza" alt="Denzel Chingodza" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=denzelchingodza&color=8b949e&style=flat-square&label=profile+views)
+<img src="https://komarev.com/ghpvc/?username=denzelchingodza&color=8b949e&style=flat-square&label=profile+views" alt="Profile Views"/>
 
 <a href="https://linkedin.com/in/denzel-chingodza-45b6ab3a0/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
@@ -14,7 +14,7 @@
 
 <br>
 
-**Software Developer · AI & Backend Engineer · South Africa**
+<strong>Software Developer · AI & Backend Engineer · South Africa</strong>
 
 <br>
 
@@ -41,6 +41,7 @@ Final year BSc Software Engineering student. I build full systems backends, data
 ### Stack
 
 **Languages**
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -49,6 +50,7 @@ Final year BSc Software Engineering student. I build full systems backends, data
 </p>
 
 **Backend & Frontend**
+
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
@@ -58,6 +60,7 @@ Final year BSc Software Engineering student. I build full systems backends, data
 </p>
 
 **Databases**
+
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/pgvector-316192?style=flat-square&logo=postgresql&logoColor=white"/>
@@ -66,6 +69,7 @@ Final year BSc Software Engineering student. I build full systems backends, data
 </p>
 
 **Cloud & Infrastructure**
+
 <p>
   <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
   <img src="https://img.shields.io/badge/EventBridge-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
@@ -76,6 +80,7 @@ Final year BSc Software Engineering student. I build full systems backends, data
 </p>
 
 **AI & ML**
+
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
