@@ -107,6 +107,10 @@ I write on AI, craft, and the things I'm learning as a developer. My first piece
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=denzelchingodza&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&hide_border=true" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=denzelchingodza&theme=github_dark" width="100%"/>
+</p>
+
 <br>
 
 <div align="center">
