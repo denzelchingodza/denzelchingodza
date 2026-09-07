@@ -89,6 +89,8 @@ Final year BSc Software Engineering student. I build full systems backends, data
 
 ### Writing
 
+I write on AI, craft, and the things I'm learning as a developer. My first piece is about what it means to build real systems with AI assistance without fully understanding what you've built and why that matters.
+
 <a href="https://medium.com/@pwmndpvhj/the-unlicensed-builder-on-ai-craft-and-the-things-we-ship-without-understanding-d4cba797fb0c">
   <img src="https://img.shields.io/badge/The%20Unlicensed%20Builder%3A%20On%20AI%2C%20Craft%2C%20and%20the%20Things%20We%20Ship%20Without%20Understanding-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Article"/>
 </a>
