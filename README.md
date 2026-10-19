@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>DENZEL CHINGODZA</h1>
+<h1>DENZEL CHINGODZA (Sweets)</h1>
 
 <strong>Software Engineer · Backend, Cloud & Applied AI · Cape Town</strong>
 <br><br>
