@@ -1,34 +1,34 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&pause=1000&color=E6EDF3&center=true&vCenter=true&width=600&height=70&lines=Denzel+Chingodza" alt="Denzel Chingodza" />
+
+<h1>Denzel Chingodza</h1>
 
 <strong>Software Engineer · Backend, Cloud & Applied AI · Cape Town</strong>
 <br><br>
-<a href="https://denz-platform.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-&nbsp;
-<a href="https://linkedin.com/in/denzel-chingodza-45b6ab3a0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-&nbsp;
-<a href="https://medium.com/@pwmndpvhj/the-unlicensed-builder-on-ai-craft-and-the-things-we-ship-without-understanding-d4cba797fb0c"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
-&nbsp;
-<a href="mailto:denzel.chingodza@icloud.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://denz-platform.vercel.app/"><b>Portfolio</b></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://linkedin.com/in/denzel-chingodza-45b6ab3a0/"><b>LinkedIn</b></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://medium.com/@pwmndpvhj/the-unlicensed-builder-on-ai-craft-and-the-things-we-ship-without-understanding-d4cba797fb0c"><b>Medium</b></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:denzel.chingodza@icloud.com"><b>Email</b></a>
+
 </div>
 
 <br>
 
 ### About
 
-Final year BSc Software Engineering student and Software Engineering Fellow at Funema.
-
-I build backends, APIs and cloud infrastructure, mostly in Python on AWS with Terraform, and I'm going deeper into AI engineering: NLP, RAG and fine-tuning language models. I care about systems that are tested and proven to work, not just shipped.
+I build backends, APIs and cloud infrastructure, mostly in Python on AWS with Terraform. I also build AI systems: RAG search, fine-tuned language models and AI features inside real products. I care about systems that are tested and proven to work, not just shipped.
 
 <br>
 
 ### Featured work
 
-**[Sentinel AI](https://denz-platform.vercel.app/)** · Serverless uptime monitoring on AWS. EventBridge, Lambda, DynamoDB, SES and SQS, all in Terraform, with an AI incident digest.
+**Sentinel AI** · Serverless uptime monitoring on AWS. EventBridge, Lambda, DynamoDB, SES and SQS, all in Terraform, with an AI incident digest.
 
-**[Muzezuru](https://muzezuru.vercel.app/)** · A Shona language model. BLOOMZ-3B fine-tuned with QLoRA on free compute, with a custom 7-category evaluation scorecard.
+**Muzezuru** · A Shona language model. BLOOMZ-3B fine-tuned with QLoRA on free compute, with a custom 7-category evaluation scorecard.
 
-**[ChunkDoc](https://denz-platform.vercel.app/)** · RAG search over course PDFs for medical students, with answers grounded in the document and page-level citations.
+**ChunkDoc** · RAG search over course PDFs for medical students, with answers grounded in the document and page-level citations.
 
 <br>
 
