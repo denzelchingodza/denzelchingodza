@@ -58,6 +58,8 @@ I build backends, APIs and cloud infrastructure, mostly in Python on AWS with Te
 
 **[The Unlicensed Builder](https://medium.com/@pwmndpvhj/the-unlicensed-builder-on-ai-craft-and-the-things-we-ship-without-understanding-d4cba797fb0c)** · On building with AI, and the gap between shipping something and understanding it.
 
+**[A POV on AI](https://medium.com/@pwmndpvhj/what-do-we-make-of-ai-in-the-age-of-ai-518c0c22e448)** ~A personal resolution on faith, technology, and what it means to build in this moment as a Christian believer.
+
 <br>
 
 <p align="center">
