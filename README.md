@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Denzel Chingodza</h1>
+<h1>DENZEL CHINGODZA</h1>
 
 <strong>Software Engineer · Backend, Cloud & Applied AI · Cape Town</strong>
 <br><br>
@@ -19,16 +19,6 @@
 ### About
 
 I build backends, APIs and cloud infrastructure, mostly in Python on AWS with Terraform. I also build AI systems: RAG search, fine-tuned language models and AI features inside real products. I care about systems that are tested and proven to work, not just shipped.
-
-<br>
-
-### Featured work
-
-**Sentinel AI** · Serverless uptime monitoring on AWS. EventBridge, Lambda, DynamoDB, SES and SQS, all in Terraform, with an AI incident digest.
-
-**Muzezuru** · A Shona language model. BLOOMZ-3B fine-tuned with QLoRA on free compute, with a custom 7-category evaluation scorecard.
-
-**ChunkDoc** · RAG search over course PDFs for medical students, with answers grounded in the document and page-level citations.
 
 <br>
 
