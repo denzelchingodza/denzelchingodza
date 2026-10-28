@@ -18,8 +18,7 @@
 
 ### About
 
-I build backends, APIs and cloud infrastructure, mostly in Python on AWS with Terraform. I also build AI systems: RAG search, fine-tuned language models and AI features inside real products. I care about systems that are tested and proven to work, not just shipped.
-
+I build applied AI systems and the Python and cloud backends behind them, and I test them until they’re proven to work.
 <br>
 
 ### Stack
