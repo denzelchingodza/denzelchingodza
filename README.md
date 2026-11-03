@@ -18,7 +18,7 @@
 
 ### About
 
-I build applied AI systems and the Python and cloud backends behind them, and I test them until they’re proven to work.
+I build applied AI systems and the Python and cloud backends behind them, and I test them until they’re proven to work. Maths earns its place when it models the real problem. 
 <br>
 
 ### Stack
