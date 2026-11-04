@@ -4,7 +4,7 @@
 
 <strong>Software Engineer · Backend, Cloud & Applied AI · Cape Town</strong>
 <br><br>
-<a href="https://denz-platform.vercel.app/"><b>Portfolio</b></a>
+<a href="https://www.denzelchingodza.com/"><b>Portfolio</b></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://linkedin.com/in/denzel-chingodza-45b6ab3a0/"><b>LinkedIn</b></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
