@@ -19,7 +19,7 @@
 ### About
 
 <!-- Swap this paragraph for the "Currently" version if you want it -->
-Building applied AI systems and the Python and backends behind them, and testing them until they're proven to work. Maths earns its place when it models the real problem.
+Building applied AI systems and the backends behind them, and testing them until they're proven to work. Maths earns its place when it models the real problem.
 
 ### Writing
 
