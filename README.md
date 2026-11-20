@@ -2,7 +2,7 @@
 
 <h1>DENZEL CHINGODZA</h1>
 
-<strong>Software Engineer · Backend, Applied AI & Cloud · Cape Town</strong>
+<strong>Software Engineer · Backend, Applied AI & ML · Cape Town</strong>
 <br><br>
 <a href="https://www.denzelchingodza.com/"><b>Portfolio</b></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
@@ -19,7 +19,7 @@
 ### About
 
 <!-- Swap this paragraph for the "Currently" version if you want it -->
-I build applied AI systems and the Python and cloud backends behind them, and I test them until they're proven to work. Maths earns its place when it models the real problem.
+Building applied AI systems and the Python and backends behind them, and testing them until they're proven to work. Maths earns its place when it models the real problem.
 
 ### Writing
 
